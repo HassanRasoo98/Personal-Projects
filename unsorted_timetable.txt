@@ -1,0 +1,55 @@
+Subject : Art Neural Net (AI-J)
+Room : B-229
+Time : 08:30-09:50
+Day : Tuesday
+Subject : Art Neural Net (AI-J)
+Room : C-404
+Time : 08:30-09:50
+Day : Thursday
+
+Subject : DIP (AI-J)
+Room : B-129
+Time : 10:00-11:20
+Day : Tuesday
+Subject : DIP (AI-J)
+Room : C-404
+Time : 10:00-11:20
+Day : Thursday
+
+Subject : Comp Networks (AI-J)
+Room : A-315
+Time : 08:30-09:50
+Day : Monday
+Subject : Comp Networks (AI-J)
+Room : A-314
+Time : 08:30-09:50
+Day : Wednesday
+
+Subject : PDC (AI-J)
+Room : A-315
+Time : 10:00-11:20
+Day : Monday
+Subject : PDC (AI-J)
+Room : A-314
+Time : 10:00-11:20
+Day : Wednesday
+
+Subject : Comp Networks Lab (AI-J)
+Lab : A-Mehran 1
+Time : 11:25-02:10
+Day : Wednesday
+
+Subject : DB (CS-C/D)
+Room : B-230
+Time : 11:30-12:50
+Day : Tuesday
+Subject : DB (CS-C/D)
+Room : C-402
+Time : 11:30-12:50
+Day : Thursday
+
+Subject : DB Lab (CS-G)
+Lab : C-Rawal 1
+Time : 11:25-02:10
+Day : Tuesday
+
