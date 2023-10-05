@@ -11,4 +11,16 @@ To understand the importance of this project let me give you some background of 
 # Thank you
     Thank you for using this program and reading thus far. I would love to hear your feedback and suggestions. You can reach me out through my official email (don't hesitate if you have a job offering for me lol).
 Note: ChatGPT was not used in making of this document.
+
+# October 2023 Update
+I am happy to announce that an API and a web app was recently launched with the help of Umar Waseem and Talal Muzaffar respectively, with this project being the source code behind it. You can visit and see the updates on the following given links.
+API built by Umar Waseem: https://universe-timetable.vercel.app/
+App made by Talal Muzaffar: https://fast-university-timetable.streamlit.app/
+
+Visit these amazing people here:
+Umar Waseem: https://github.com/Umar-Waseem
+Talal Muzaffar: https://www.linkedin.com/in/talalmuzaffar/
+
+# User Feedback and Suggestions
+We are open to feedback to improve the user experience and overall quality of the app. To provide feedback please visit: https://forms.gle/bFPUXVDjvUjXmUkV6
   
